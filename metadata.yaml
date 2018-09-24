@@ -1,0 +1,38 @@
+_repo: The-Status-of-the-Jews-in-Egypt-The-Fifth-Arthur-Davis-Memorial-Lecture_56444
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Sassoon, Philip, Sir
+    birthdate: 1888
+    deathdate: 1939
+    gutenberg_agent_id: '48849'
+    url: http://www.gutenberg.org/2009/agents/48849
+creator:
+  author:
+    agent_name: Petrie, W. M. Flinders (William Matthew Flinders)
+    aliases:
+    - Petrie, Flinders
+    - Petrie, William Matthew Flinders, Sir
+    birthdate: 1853
+    deathdate: 1942
+    gutenberg_agent_id: '2454'
+    url: http://www.gutenberg.org/2009/agents/2454
+    wikipedia: http://en.wikipedia.org/wiki/William_Matthew_Flinders_Petrie
+description: ''
+gutenberg_issued: '2018-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56444'
+  lccn: '22017546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Egypt'
+- !lcc 'DS'
+- GITenberg
+title: 'The Status of the Jews in Egypt
+
+  The Fifth Arthur Davis Memorial Lecture'
+url: http://www.gutenberg.org/ebooks/56444
