@@ -1,5 +1,5 @@
 _repo: The-Status-of-the-Jews-in-Egypt-The-Fifth-Arthur-Davis-Memorial-Lecture_56444
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Sassoon, Philip, Sir
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1939
     gutenberg_agent_id: '48849'
     url: http://www.gutenberg.org/2009/agents/48849
+covers:
+- cover_type: archival
+  image_path: 56444-h/images/cover.jpg
 creator:
   author:
     agent_name: Petrie, W. M. Flinders (William Matthew Flinders)
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2454
     wikipedia: http://en.wikipedia.org/wiki/William_Matthew_Flinders_Petrie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56444#The-Status-of-the-Jews-in-Egypt-The-Fifth-Arthur-Davis-Memorial-Lecture
 gutenberg_issued: '2018-01-27'
 gutenberg_type: Text
 identifiers:
